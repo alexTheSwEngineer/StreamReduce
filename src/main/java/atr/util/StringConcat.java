@@ -1,6 +1,4 @@
 package atr.util;
-
-import com.sun.scenario.effect.Merge;
 import lombok.Data;
 
 import java.util.stream.Stream;
